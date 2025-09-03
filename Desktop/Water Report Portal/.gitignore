@@ -1,1 +1,24 @@
+# Ignore system/user files
+/.android/
+/.bash_history
+/.cache/
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+
+# IDE / build junk
+*.class
+*.log
+*.iml
+/.idea/
+/.vscode/
+/target/
+/bin/
 /.metadata/
