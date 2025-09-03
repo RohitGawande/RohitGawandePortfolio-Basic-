@@ -22,3 +22,23 @@
 /target/
 /bin/
 /.metadata/
+# Eclipse/IDE junk
+.metadata/
+*.dat
+.idea/
+.vscode/
+
+# User/system junk
+/.android/
+/.bash_history
+/.cache/
+/.config/
+/eclipse/
+/.ipython/
+/.jupyter/
+/.keras/
+/.lemminx/
+/.m2/
+/.p2/
+/.trae*/
+/*.swp
